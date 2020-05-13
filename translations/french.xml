@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+
+	<translation id="home">Accueil</translation>
+	<translation id="get_started">Démarrer</translation>
+	<translation id="newsletter">Newsletter</translation>
+	<translation id="whitepaper">Whitepaper</translation>
+	<translation id="family_tree">Arbre généalogique</translation>
+	<translation id="copyright">Copyright</translation>
+	<translation id="license">License</translation>
+	<translation id="contact">Contact</translation>
+	<translation id="language">Langue</translation>
+
+	<translation id="homelang_01">Attaquer le protocole Zcash pour le Plaisir et le Profit.</translation>
+	<translation id="homelang_02">Ce site Internet est dédié à la documentation des attaques et des défenses dans le protocole Zcash.</translation>
+	<translation id="homelang_03">Commencer</translation>
+	
+	<translation id="get_started_01">Commencer ici</translation>
+	<translation id="get_started_02">Protocole d'attaque Zcash pour le fun et le profit.</translation>
+	<translation id="get_started_03">Ce site Internet est to documenting attacks and defenses in Zcash Protocol and to start the fun, we have a brand new <strong>whitepaper</strong>!</translation>
+	<translation id="get_started_04">Télécharger ici</translation>
+	
+	<translation id="newsletter_01">Newsletters</translation>
+	<translation id="newsletter_02">Newsletter de l'attaque Zcash</translation>
+	<translation id="newsletter_03">Abonnez-vous à la newsletter «Attacking Zcash» pour rester informé des dernières technologies et actualités relatives à la confidentialité et au protocole Zcash.</translation>
+	<translation id="newsletter_04">S'inscrire ici</translation>
+	
+	<translation id="whitepaper_01">Whitepaper</translation>
+	<translation id="whitepaper_02">Annonce de notre nouveau Whitepaper</translation>
+	<translation id="whitepaper_03">TLDR: Le nombre de  sorties blindées dans la transaction Zcash moyenne ne suffisent pas pour avoir une forte confidentialité à la lumière des nouveaux progrès de la théorie de l'analyse de la blockchain.</translation>
+	<translation id="whitepaper_04">Source</translation>
+
+	<translation id="family_tree_01">Arbre généalogique</translation>
+	<translation id="family_tree_02">Arbre généalogique du protocole Zcash</translation>
+	<translation id="family_tree_03">Ici, nous représentons, pour la première fois que nous le savons, un arbre généalogique des pièces du protocole Zcash qui utilisent le code source de Zcash. Nous notons que Bitcoin Gold (BTG) n'est pas répertorié car ils utilisent l'algorithme PoW de Zcash (Equihash) mais n'utilisent aucun code lié à la confidentialité.
+Zcash a à l'origine créé le code source de Bitcoin 0.11.2 et a sélectionné de nombreuses corrections et fonctionnalités individuelles, mais reste principalement des éléments internes de Bitcoin 0.11.2 avec de toutes nouvelles fonctionnalités Zcash boulonnées en plus de cela.
+Notamment, les développements récents de Bitcoin Core pour gérer les portefeuilles via l'interface RPC font défaut dans Zcash, ainsi que les améliorations P2P.</translation>
+	<translation id="family_tree_04">La catégorie des «chaînes d'actifs de Komodo» contient des dizaines de chaînes de blocs qui ont protégé le support des transactions. Les chaînes intelligentes Hush sont similaires mais se concentrent uniquement sur les cas d'utilisation de preuve de travail (pas de preuve de participation) et se concentrent sur les cas d'utilisation de confidentialité par défaut. Ceci est parfois appelé «z2z» car l'envoi à zaddrs est requis et l'envoi d'un zaddr à une adresse transparente n'est pas autorisé.</translation>
+	<translation id="family_tree_05">Il est facile de voir que ZClassic a été utilisé comme base pour de nombreux nouveaux fourches de code source et de chaîne et que Komodo a créé un micro-univers de ses propres fourches d'exécution, telles que Pirate, et des fourches de code source, telles que Hush v3. Il existe près de 100 forks d'exécution connus de Komodo dont les paramètres de blockchain peuvent être spécifiés complètement via la ligne de commande et ne nécessitent donc pas de maintenir les forks de code source.</translation>
+	<translation id="family_tree_06">KMD avait à l'origine des adresses blindées mais en réponse à l'inflation de Sprout mais CVE-2019-7167, il a migré toutes les fonctionnalités blindées vers la chaîne Pirate et désactivé les fonctionnalités blindées sur KMD. Il s'agissait d'une décision très stratégique pour isoler les fuites de métadonnées et augmenter l'ensemble d'anonymat de Pirate.</translation>
+	<translation id="family_tree_07">Depuis mai 2020, Pirate et Arrow sont les seules chaînes de blocs du protocole Zcash qui appliquent la confidentialité par défaut, en désactivant l'envoi à des adresses transparentes. En novembre 2020, Hush les rejoindra dans le bonheur de la confidentialité par défaut.</translation>
+	<translation id="family_tree_08">Pirate a été la toute première blockchain à appliquer la confidentialité par défaut, tandis que Hush était la première blockchain pure de Sapling, complètement débarrassée des adresses blindées Sprout. Arrow est un cryptocoin plus récent qui s'appuie sur ces idées récentes et a été la première chaîne de blocs Sapling pure à appliquer la confidentialité par défaut.</translation>
+	<translation id="family_tree_09">Hush était à l'origine basé sur Zcash 1.0.8 mais en réponse au Sprout CVE, il a migré vers Komodo en tant que code source en amont. La blockchain d'origine a basculé au bloc 500 000 sur une nouvelle blockchain Pure Sapling. La communauté Hush est sur son deuxième réseau principal et des outils tels que Hush Smart Chains peuvent créer une nouvelle blockchain avec une seule commande pour expérimenter de nouvelles chaînes latérales ou lancer de nouveaux projets basés sur cette technologie.</translation>
+	<translation id="family_tree_10">Hush Smart Chains prend en charge le lancement de chaînes de blocs entièrement privées sans accès public, ou hybrides, ou de chaînes de blocs publiques qui peuvent avoir une protection de preuve de travail retardée.</translation>
+	<translation id="family_tree_11">Hush Smart Chains</translation>
+	
+	<translation id="copyright_01">Copyright</translation>
+	<translation id="copyright_02">Copyright</translation>
+	<translation id="copyright_03">Toutes les informations et le code est sous le copyright The Hush Developers 2020</translation>
+
+	<translation id="license_01">License</translation>
+	<translation id="license_02">License</translation>
+	<translation id="license_03">Tout le code et les données sont publiés sous la licence publique GNU version 3.</translation>
+	
+	<translation id="contact_01">Rejoignez #attackingzcash channel on Hush Discord or post some privacy memes to our Telegram channel.</translation>
+	<translation id="contact_02">Suivez notre Twitter pour obtenir les dernières mises à jour au fur et à mesure.</translation>
+	<translation id="contact_03">Rejoignez-nous!</translation>
+	<translation id="contact_04">Hush</translation>
+	<translation id="contact_05"> est un projet communautaire. Tout le monde est accueilli à bras ouverts!</translation>
+
+</translations>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+
+	<translation id="home">Home</translation>
+	<translation id="get_started">Get Started</translation>
+	<translation id="newsletter">Newsletter</translation>
+	<translation id="whitepaper">Whitepaper</translation>
+	<translation id="family_tree">Family Tree</translation>
+	<translation id="copyright">Copyright</translation>
+	<translation id="license">License</translation>
+	<translation id="contact">Contact</translation>
+	<translation id="language">Language</translation>
+
+	<translation id="homelang_01">Attacking Zcash Protocol For Fun And Profit.</translation>
+	<translation id="homelang_02">This website is dedicated to documenting attacks and defenses in Zcash Protocol.</translation>
+	<translation id="homelang_03">Get Started</translation>
+
+	<translation id="get_started_01">Get started</translation>
+	<translation id="get_started_02">Attacking Zcash Protocol For Fun And Profit english.</translation>
+	<translation id="get_started_03">This website is dedicated to documenting attacks and defenses in Zcash Protocol and to start the fun, we have a brand new <strong>whitepaper</strong>!</translation>	
+	<translation id="get_started_04">Downnload here</translation>
+	
+	
+	<translation id="newsletter_01">Newsletters</translation>
+	<translation id="newsletter_02">Attacking Zcash Newsletter</translation>
+	<translation id="newsletter_03">Subscribe to the “Attacking Zcash” newletter to stay informed about the latest tech and news relating to privacy and Zcash Protocol.</translation>
+	<translation id="newsletter_04">Subscribe here</translation>
+	
+	<translation id="whitepaper_01">Whitepaper</translation>
+	<translation id="whitepaper_02">Announcing Our New Whitepaper</translation>
+	<translation id="whitepaper_03">TLDR: The number of shielded outputs in the average Zcash transaction is not enough to have strong privacy in light of new advances in blockchain analysis theory.</translation>
+	<translation id="whitepaper_04">Source</translation>
+	
+	<translation id="family_tree_01">Family tree</translation>
+	<translation id="family_tree_02">Zcash Protocol Family Tree</translation>
+	<translation id="family_tree_03">Here we represent, for the first time that we know, a family tree of Zcash Protocol coins which use Zcash source code. We note that Bitcoin Gold (BTG) is not listed because they use the PoW algorithm from Zcash (Equihash) but do not use any of the privacy-related code.
+Zcash originally forked the source code of Bitcoin 0.11.2 and has cherry-picked many individual fixes and features but primarily remains Bitcoin 0.11.2 internals with brand new Zcash features bolted on top of that.
+Notably, recent developments by Bitcoin Core to manage wallets via the RPC interface is lacking in Zcash, as well as P2P improvements.</translation>
+	<translation id="family_tree_04">The category of “Komodo Asset Chains” contains dozens of blockchains which have shielded transaction support. Hush Smart Chains are similar but focus purely on Proof-of-Work (not Proof-of-Stake) use cases and are focused on privacy-by-default use cases. This is sometimes calles “z2z” because sending to zaddrs is required and sending from a zaddr to a transparent address is not allowed.</translation>
+	<translation id="family_tree_05">It is easy to see that ZClassic has been used as a base for many new source code and chain forks and that Komodo has creates a micro-universe of it’s own run-time forks, such as Pirate, and source code forks, such as Hush v3. There are close to 100 known run-time forks of Komodo which blockchain parameters can be specified completely via the command-line and thus do not require maintaining source code forks.</translation>
+	<translation id="family_tree_06">KMD originally had shielded addresses but in response to the Sprout inflation but CVE-2019-7167, it migrated all shielded functionality to the Pirate chain and disabled shielded features on KMD. This was a very strategic move to isolate metadata leakage and increase the anonymity set of Pirate.</translation>
+	<translation id="family_tree_07">As of May 2020, Pirate and Arrow are the only Zcash Protocol blockchains which enforce privacy by default, by disabling sending to transparent addresses. In November 2020 Hush will join them in the bliss of privacy-by-default.</translation>
+	<translation id="family_tree_08">Pirate was the very first blockchain to enforce privacy by default, while the Hush was the first pure Sapling blockchain, completely rid of the Sprout shielded addresses. Arrow is a newer cryptocoin which builds on these recent ideas and was the first pure Sapling blockchain to enforce privacy by default.</translation>
+	<translation id="family_tree_09">Hush originally was based on Zcash 1.0.8 but in response to the Sprout CVE it migrated to Komodo as source code upstream. The original blockchain was sunset at Block 500,000, snapshotted and airdropped to a new Pure Sapling blockchain. by giving users and miners a choice and in that way it was User Activated Hard Fork. The Hush community is on their second mainnet and tools such as Hush Smart Chains can spin up a new blockchain with a single command to experiment with new side-chains or launch new projects based on this tech.</translation>
+	<translation id="family_tree_10">Hush Smart Chains support launching completely private blockchains with no public access, or hybrids, or public blockchains which can have delayed-Proof-of-Work protection.</translation>
+	<translation id="family_tree_11">Hush Smart Chains</translation>
+
+	<translation id="copyright_01">Copyright</translation>
+	<translation id="copyright_02">Copyright</translation>
+	<translation id="copyright_03">All information and code is Copyright The Hush Developers 2020</translation>
+
+	<translation id="license_01">License</translation>
+	<translation id="license_02">License</translation>
+	<translation id="license_03">All code and data is released under the GNU Public License Version 3.</translation>
+	
+	<translation id="contact_01">Join #attackingzcash channel on Hush Discord or post some privacy memes to our Telegram channel.</translation>
+	<translation id="contact_02">Stalk our Twitter to get the latest updates as they happen.</translation>
+	<translation id="contact_03">Join us!</translation>
+	<translation id="contact_04">Hush</translation>
+	<translation id="contact_05"> is a community project. Everyone is welcomed with open arms!</translation>
+	
+</translations>
